@@ -14,5 +14,3 @@ def is_a_valid_message(message):
             continue
         length += 1
     return status
-
-print(is_a_valid_message("3hey5hello2hi5"))
